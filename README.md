@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0e,50:c8f55a,100:7ee8b5&height=200&section=header&text=Kulsum%20Malik&fontSize=60&fontColor=0d0d0e&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Craftsperson%20%7C%20Security%20Thinker&descAlignY=58&descSize=18&descColor=0d0d0e&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0e,40:1a1a2e,100:c8f55a&height=220&section=header&text=Kulsum%20Malik&fontSize=65&fontColor=c8f55a&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Security%20Thinker%20%E2%80%A2%20Creative%20Technologist&descAlignY=62&descSize=17&descColor=7ee8b5&animation=fadeIn" />
 
 </div>
 
@@ -8,7 +8,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=22&duration=3000&pause=1000&color=C8F55A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+things+that+feel+alive.;Security-first+%7C+Motion-driven+%7C+Full-Stack.;From+idea+to+deployed+product+%E2%80%94+end+to+end.)](https://git.io/typing-svg)
+<img src="./avatar.png" width="200px" style="border-radius: 50%;" alt="Kulsum Malik Avatar"/>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=20&duration=2800&pause=900&color=C8F55A&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=I+build+things+that+feel+alive.+%F0%9F%9A%80;Security-first.+Motion-driven.+Full-Stack.+%E2%9A%A1;From+idea+%E2%86%92+deployed+product+%E2%80%94+end+to+end.;Code+is+my+canvas.+Products+are+my+art.+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,21 +20,25 @@
 
 ---
 
-## ⬡ &nbsp; About Me
+<div align="center">
 
 ```js
 const kulsum = {
   role       : "Full-Stack Developer & Creative Technologist",
   location   : "India 🇮🇳",
   philosophy : "Build fast. Build secure. Make it beautiful.",
-  currently  : ["Shipping products", "Deepening security knowledge", "Learning every single day"],
+  currently  : ["Shipping real products", "Deepening security knowledge", "Learning every single day"],
   reach      : "malikkulsum25@gmail.com",
 };
 ```
 
+</div>
+
 ---
 
 ## 🧬 &nbsp; Full Tech DNA
+
+<div align="center">
 
 ### ⚡ Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -73,26 +81,28 @@ const kulsum = {
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+</div>
+
 ---
 
 ## 🚀 &nbsp; Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔒 [NEXVPN](https://nex-vpn-nova.vercel.app/)
-> *Advanced Privacy System*
+**Advanced Privacy System**
 
-A professional-grade VPN simulation & privacy dashboard with **real TCP metrics**, **DNS/WebRTC leak detection**, an animated **GeoSpoof visualizer**, and a dynamic **0–100 privacy score engine**.
+Professional-grade VPN simulation with **real TCP metrics**, **DNS/WebRTC leak detection**, **GeoSpoof visualizer**, and a dynamic **0–100 privacy score engine** with threat intelligence feeds.
 
 `Socket.IO` `AES-256` `JWT` `Node.js` `React`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📁 [Materix](https://materix.vercel.app/)
-> *Secure Document Manager*
+**Secure Document Manager**
 
 Enterprise-grade file management with **Supabase OAuth**, **UUID-anonymized storage**, **PDF/text parsing**, **malware scanning**, and a full secure file history dashboard.
 
@@ -101,22 +111,22 @@ Enterprise-grade file management with **Supabase OAuth**, **UUID-anonymized stor
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 [Scalendra](https://scalendra.vercel.app/)
-> *Cinematic Productivity Dashboard*
+**Cinematic Productivity Dashboard**
 
 A layered scheduling experience with **bokeh effects**, **film grain**, **activity heatmaps**, **particle animations**, and an **NLP voice engine** for natural language date commands.
 
 `React` `Framer Motion` `NLP` `CSS Animations`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎟️ [Book My Vibe](https://bookmyvibe.vercel.app/)
-> *Live Event Booking Platform*
+**Live Event Booking Platform**
 
-A full-stack MERN booking platform with **component-driven React**, **REST APIs**, real-time **seat availability**, and **production deployment** on Render.
+Full-stack MERN booking platform with **component-driven React**, **REST APIs**, real-time **seat availability**, and **production deployment**.
 
 `MongoDB` `Express` `React` `Node.js`
 
@@ -126,20 +136,18 @@ A full-stack MERN booking platform with **component-driven React**, **REST APIs*
 
 ---
 
-## 🌊 &nbsp; Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stackpilotkulsum&bg_color=0d0d0e&color=c8f55a&line=7ee8b5&point=f5a24a&area=true&hide_border=true" width="100%"/>
+### 💬 &nbsp; Let's Connect
 
-</div>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikkulsum25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kulsum-malik-43407b324)
+[![Portfolio](https://img.shields.io/badge/Portfolio-c8f55a?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/stackpilotkulsum/Kulsum.dev)
 
----
+<br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8f55a,50:7ee8b5,100:0d0d0e&height=130&section=footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ee8b5,50:c8f55a,100:0d0d0e&height=120&section=footer" />
-
-<sub>⚡ Built with intention. Shipped with care. — <b>Kulsum Malik</b></sub>
+*⚡ Built with intention. Shipped with care. — **Kulsum Malik***
 
 </div>
