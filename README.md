@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0e,40:1a1a2e,100:c8f55a&height=220&section=header&text=Kulsum%20Malik&fontSize=65&fontColor=c8f55a&fontAlignY=40&desc=Building%20the%20Future%20🚀&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0e,40:1a1a2e,100:c8f55a&height=260&section=header&text=Kulsum%20Malik&fontSize=75&fontColor=c8f55a&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=65&descSize=20&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -8,15 +8,13 @@
 
 <div align="center">
 
-<img src="./avatar.png" width="200px" style="border-radius: 50%; border: 3px solid #c8f55a; box-shadow: 0 0 20px rgba(200, 245, 90, 0.3);" alt="Kulsum Malik Avatar"/>
-
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=20&duration=2800&pause=900&color=C8F55A&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Full-Stack%20Developer%20%26%20Creative%20Technologist;Crafting%20Aesthetic%20Digital%20Experiences;Passionate%20about%20Security%20%26%20Innovation;Building%20the%20Next%20Generation%20Web)](https://github.com/stackpilotkulsum)
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=24&duration=3500&pause=1000&color=C8F55A&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=🚀+Full-Stack+Developer+%7C+MERN+Specialist;🔐+Security+Focused+%7C+Authentication+Expert;🎨+UI%2FUX+Enthusiast+%7C+Beautiful+Interfaces;🤖+AI+Integration+%7C+NLP+Voice+Engine;📦+Real-world+Products+%7C+Production+Ready" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=stackpilotkulsum&style=flat-square&color=c8f55a)
+![Profile Views](https://komarev.com/ghpvc/?username=stackpilotkulsum&style=flat-square&color=c8f55a&label=PROFILE%20VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/stackpilotkulsum?style=flat-square&color=c8f55a&label=FOLLOWERS)
+![GitHub User's stars](https://img.shields.io/github/stars/stackpilotkulsum?style=flat-square&color=c8f55a&label=TOTAL%20STARS)
 
 </div>
 
@@ -34,7 +32,8 @@ const kulsum = {
   currently  : [
     "🚀 Shipping real products",
     "🔐 Deepening security knowledge",
-    "📚 Learning every single day"
+    "📚 Learning every single day",
+    "🎨 Crafting beautiful experiences"
   ],
   reach      : "📧 malikkulsum25@gmail.com",
   passion    : "💡 Blending AI, Security & Beautiful UI/UX"
@@ -45,7 +44,7 @@ const kulsum = {
 
 ---
 
-## 🧬 &nbsp; Full Tech DNA
+## 🧬 &nbsp; Full Tech Stack
 
 <div align="center">
 
@@ -54,6 +53,7 @@ const kulsum = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -64,7 +64,7 @@ const kulsum = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🗄️ Data Persistence
+### 🗄️ Database & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -72,8 +72,8 @@ const kulsum = {
 
 ### 🔐 Security & Authentication
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![AES-256](https://img.shields.io/badge/AES--256-FF6B6B?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AES-256](https://img.shields.io/badge/AES--256-FF6B6B?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Encryption](https://img.shields.io/badge/Encryption-4CAF50?style=for-the-badge&logo=lock&logoColor=white)
 
 ### 📡 Real-Time & APIs
@@ -100,23 +100,57 @@ const kulsum = {
 
 ---
 
-## 🚀 &nbsp; Featured Projects
+## 🎪 &nbsp; Featured Showcase
 
 <div align="center">
 
-| 🔒 **NEXVPN** | 📁 **Materix** |
-|---|---|
-| **Advanced Privacy System** | **Secure Document Manager** |
-| Professional-grade VPN simulation with **real TCP metrics**, **DNS/WebRTC leak detection**, **GeoSpoof visualizer**, and a dynamic **0–100 privacy score engine**. | Enterprise-grade file management with **Supabase OAuth**, **UUID-anonymized storage**, **PDF/text parsing**, **malware scanning**, and full secure file history. |
-| `Socket.IO` `AES-256` `JWT` `React` `Node.js` | `Supabase` `PostgreSQL` `JWT` `React` `Node.js` |
-| **[🌐 Live Demo](https://nex-vpn-nova.vercel.app/)** | **[🌐 Live Demo](https://materix.vercel.app/)** |
+### 🔒 **NEXVPN Nova** - Advanced Privacy System
+<img src="https://img.shields.io/badge/Live-https%3A%2F%2Fnex--vpn--nova.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo"/>
 
-| 🎬 **Scalendra** | 🎟️ **Book My Vibe** |
-|---|---|
-| **Cinematic Productivity Dashboard** | **Live Event Booking Platform** |
-| Layered scheduling with **bokeh effects**, **film grain**, **activity heatmaps**, **particle animations**, and **NLP voice engine** for natural language commands. | Full-stack MERN platform with **component-driven architecture**, **REST APIs**, real-time **seat availability**, and **production deployment**. |
-| `React` `Framer Motion` `NLP` `CSS Animations` | `MongoDB` `Express` `React` `Node.js` |
-| **[🌐 Live Demo](https://scalendra.vercel.app/)** | **[🌐 Live Demo](https://book-my-vibe-seven.vercel.app/)** |
+Professional-grade VPN platform with **real TCP metrics**, **DNS/WebRTC leak detection**, **GeoSpoof visualizer**, and dynamic **privacy score engine**.
+
+**Tech:** `Socket.IO` • `AES-256` • `JWT` • `React` • `Node.js` • `Tailwind CSS`
+
+---
+
+### 📁 **Materix** - Enterprise Document Manager  
+<img src="https://img.shields.io/badge/Live-https%3A%2F%2Fmaterix.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo"/>
+
+Secure full-stack document management with **Google OAuth**, **Supabase PostgreSQL**, **data extraction**, **drag-drop uploads**, and **malware validation**.
+
+**Tech:** `Supabase` • `PostgreSQL` • `JWT` • `React` • `Node.js` • `File Processing`
+
+---
+
+### 🎬 **Scalendra** - Cinematic Productivity Dashboard
+<img src="https://img.shields.io/badge/Live-https%3A%2F%2Fscalendra.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo"/>
+
+Advanced scheduling platform with **bokeh effects**, **film grain overlays**, **activity heatmaps**, **particle animations**, and **NLP voice engine** for natural commands.
+
+**Tech:** `React` • `Framer Motion` • `NLP` • `CSS Animations` • `Voice Recognition`
+
+---
+
+### 🎟️ **BookMyVibe** - Live Event Booking Platform
+<img src="https://img.shields.io/badge/Live-https%3A%2F%2Fbook--my--vibe--seven.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo"/>
+
+Full-stack MERN platform for event discovery, seat selection, and bookings with **interactive UI**, **real-time updates**, and **payment simulation**.
+
+**Tech:** `MongoDB` • `Express` • `React` • `Node.js` • `Socket.IO`
+
+---
+
+### 🎟️ **BookMySeat** - Ticket Reservation System
+Complete ticket booking ecosystem with **user authentication**, **event management**, **admin dashboard**, and **payment workflow** simulation.
+
+**Tech:** `Node.js` • `Express` • `MongoDB` • `Vanilla JS` • `HTML/CSS`
+
+---
+
+### 🌐 **Kulsum.dev** - Personal Portfolio
+Showcase of projects, creative work, and technical expertise in modern web development and AI integration.
+
+**Tech:** `HTML` • `CSS` • `JavaScript` • `Responsive Design`
 
 </div>
 
@@ -126,9 +160,11 @@ const kulsum = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stackpilotkulsum&theme=radical&hide_border=true&bg_color=0d0d0e&title_color=c8f55a&text_color=ffffff&icon_color=c8f55a)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stackpilotkulsum&theme=radical&hide_border=true&bg_color=0d0d0e&title_color=c8f55a&text_color=ffffff&icon_color=c8f55a&show=reviews,discussions_started,discussions_answered)](https://github.com/stackpilotkulsum)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stackpilotkulsum&theme=radical&hide_border=true&bg_color=0d0d0e&title_color=c8f55a&text_color=ffffff&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stackpilotkulsum&theme=radical&hide_border=true&bg_color=0d0d0e&title_color=c8f55a&text_color=ffffff&layout=compact&langs_count=8)](https://github.com/stackpilotkulsum)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stackpilotkulsum&theme=dark&background=0d0d0e&border=c8f55a&currStreakLabel=c8f55a)](https://github.com/stackpilotkulsum)
 
 </div>
 
@@ -140,13 +176,14 @@ const kulsum = {
 
 | **Category** | **Expertise** |
 |:---:|:---|
-| 🎨 **Frontend** | React, Framer Motion, CSS Animations, Responsive Design, Component Architecture |
-| 🏗️ **Backend** | Node.js, Express, REST APIs, Real-time Systems, Server Architecture |
-| 🔐 **Security** | JWT Authentication, OAuth 2.0, AES-256 Encryption, Secure APIs |
-| 📊 **Databases** | MongoDB, PostgreSQL, Supabase, Data Modeling, Query Optimization |
-| 🤖 **AI/ML** | NLP, Voice Recognition, Data Processing, Natural Language Commands |
-| 📱 **Full-Stack** | MERN Stack, Full Application Development, Production Deployment |
-| ⚡ **DevOps** | Git, GitHub Actions, Vercel, Render, Linux, Bash Scripting |
+| 🎨 **Frontend** | React, Framer Motion, CSS Animations, Responsive Design, Component Architecture, Performance Optimization |
+| 🏗️ **Backend** | Node.js, Express, REST APIs, Real-time Systems, Server Architecture, Microservices |
+| 🔐 **Security** | JWT Authentication, OAuth 2.0, AES-256 Encryption, Secure APIs, Input Validation, CORS Protection |
+| 📊 **Databases** | MongoDB, PostgreSQL, Supabase, Data Modeling, Query Optimization, Indexing Strategies |
+| 🤖 **AI/ML** | NLP, Voice Recognition, Data Processing, Natural Language Commands, ML Model Integration |
+| 📱 **Full-Stack** | MERN Stack, Full Application Development, Production Deployment, DevOps, Scalability |
+| ⚡ **DevOps** | Git, GitHub Actions, Vercel, Render, Linux, Bash Scripting, Docker, CI/CD Pipelines |
+| 🎬 **Creative Tech** | Animations, Visual Effects, UX Engineering, Interactive Design, Performance Animation |
 
 </div>
 
@@ -158,7 +195,7 @@ const kulsum = {
 >
 > Every line of code matters. Every feature should delight users. Every system should be bulletproof.
 >
-> I believe in crafting digital experiences that are not just functional, but **inspiring**—blending cutting-edge technology with thoughtful design.
+> I believe in crafting digital experiences that are not just functional, but **inspiring**—blending cutting-edge technology with thoughtful design, security-first thinking, and beautiful interfaces that users love.
 
 ---
 
@@ -168,19 +205,17 @@ const kulsum = {
 
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikkulsum25@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kulsum-malik-43407b324)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-c8f55a?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/stackpilotkulsum/Kulsum.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-c8f55a?style=for-the-badge&logo=vercel&logoColor=black)](https://kulsum-dev.vercel.app)
 [![GitHub](https://img.shields.io/badge/⭐_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stackpilotkulsum)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8f55a,50:7ee8b5,100:0d0d0e&height=130&section=footer&fontSize=20" width="100%"/>
-
-**⚡ Built with intention. Shipped with care. Designed to inspire.**
-
-*— Kulsum Malik*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8f55a,50:7ee8b5,100:0d0d0e&height=150&section=footer&fontSize=20" width="100%"/>
 
 <br/>
 
-![Made with ❤️](https://img.shields.io/badge/Made_with_%E2%9D%A4%EF%B8%8F-c8f55a?style=flat-square)
+<img src="https://img.shields.io/badge/⚡_Built_with_intention._Shipped_with_care._Designed_to_inspire.-c8f55a?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Made_with_%E2%9D%A4%EF%B8%8F_by_Kulsum_Malik-c8f55a?style=flat-square" />
 
 </div>
