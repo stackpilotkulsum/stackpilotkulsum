@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0e,40:1a1a2e,100:c8f55a&height=260&section=header&text=Kulsum%20Malik&fontSize=75&fontColor=c8f55a&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=62&descAlign=50" width="100%"/>
+<!-- EXTRAORDINARY GALACTIC NEON GRADIENT HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030008,30:0f021f,70:380668,100:c8f55a&height=260&section=header&text=Kulsum%20Malik&fontSize=75&fontColor=c8f55a&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=62&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -279,7 +280,8 @@ Showcase of projects, creative work, and technical expertise in modern web devel
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8f55a,50:7ee8b5,100:0d0d0e&height=150&section=footer&fontSize=20" width="100%"/>
+<!-- EXTRAORDINARY GALACTIC NEON GRADIENT FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8f55a,30:380668,70:0f021f,100:030008&height=150&section=footer&fontSize=20" width="100%"/>
 
 <br/>
 
