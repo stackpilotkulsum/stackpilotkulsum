@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0e,40:1a1a2e,100:c8f55a&height=260&section=header&text=Kulsum%20Malik&fontSize=75&fontColor=c8f55a&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=65&descSize=20&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0e,40:1a1a2e,100:c8f55a&height=260&section=header&text=Kulsum%20Malik&fontSize=75&fontColor=c8f55a&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=62&descAlign=50" width="100%"/>
 
 </div>
 
@@ -8,13 +8,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=24&duration=3500&pause=1000&color=C8F55A&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=🚀+Full-Stack+Developer+%7C+MERN+Specialist;🔐+Security+Focused+%7C+Authentication+Expert;🎨+UI%2FUX+Enthusiast+%7C+Beautiful+Interfaces;🤖+AI+Integration+%7C+NLP+Voice+Engine;📦+Real-world+Products+%7C+Production+Ready" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=24&duration=3500&pause=1000&color=C8F55A&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=🚀+Full-Stack+Developer;💡+Creative+Technologist;🔐+Security+First+Mindset;⚡+Always+Learning" width="100%"/>
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=stackpilotkulsum&style=flat-square&color=c8f55a&label=PROFILE%20VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/stackpilotkulsum?style=flat-square&color=c8f55a&label=FOLLOWERS)
-![GitHub User's stars](https://img.shields.io/github/stars/stackpilotkulsum?style=flat-square&color=c8f55a&label=TOTAL%20STARS)
 
 </div>
 
@@ -156,20 +152,6 @@ Showcase of projects, creative work, and technical expertise in modern web devel
 
 ---
 
-## 📊 &nbsp; GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stackpilotkulsum&theme=radical&hide_border=true&bg_color=0d0d0e&title_color=c8f55a&text_color=ffffff&icon_color=c8f55a&show=reviews,discussions_started,discussions_answered)](https://github.com/stackpilotkulsum)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stackpilotkulsum&theme=radical&hide_border=true&bg_color=0d0d0e&title_color=c8f55a&text_color=ffffff&layout=compact&langs_count=8)](https://github.com/stackpilotkulsum)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stackpilotkulsum&theme=dark&background=0d0d0e&border=c8f55a&currStreakLabel=c8f55a)](https://github.com/stackpilotkulsum)
-
-</div>
-
----
-
 ## 💡 &nbsp; Core Competencies
 
 <div align="center">
@@ -195,7 +177,7 @@ Showcase of projects, creative work, and technical expertise in modern web devel
 >
 > Every line of code matters. Every feature should delight users. Every system should be bulletproof.
 >
-> I believe in crafting digital experiences that are not just functional, but **inspiring**—blending cutting-edge technology with thoughtful design, security-first thinking, and beautiful interfaces that users love.
+> I believe in crafting digital experiences that are not just functional, but **inspiring**—blending cutting-edge technology with thoughtful design, security-first thinking, and beautiful interactions that make people smile.
 
 ---
 
