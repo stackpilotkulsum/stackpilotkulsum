@@ -65,80 +65,68 @@
 
 <br/>
 
-<!-- ULTRA-UNIQUE FEATURE 2: ACTIVE QUEST LOG (REDESIGNED SHOWCASE) -->
-## ⚔️ &nbsp; The Active Quest Log
+<!-- ULTRA-UNIQUE FEATURE 2: VISUAL PROJECT SHOWCASE -->
+## 🖼️ &nbsp; The Visual Masterpieces
 
-Here are the main quests I have successfully tackled and deployed:
+Here are the main quests I have successfully tackled and deployed. 
 
 <br/>
 
 <div align="center">
 
-### 🛡️ **QUEST 1: NEXVPN Nova — Advanced Privacy System**
-> **STATUS**: 🏆 COMPLETED & ACTIVE
-
-Professional-grade VPN platform featuring real-time TCP metrics, DNS/WebRTC leak detection, GeoSpoof visualizer, and a custom privacy score engine.
-* **Loot Secured**: `Socket.IO` • `AES-256` • `JWT` • `React` • `Node.js` • `Tailwind`
-* **Demo Node**: <a href="https://nex-vpn-nova.vercel.app"><img src="https://img.shields.io/badge/Enter_Quest-c8f55a?style=flat-square&logo=vercel&logoColor=black" /></a>
-
-<br/>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0e,50:c8f55a,100:0d0d0e&height=1" width="40%"/>
-</p>
-<br/>
-
-### 📁 **QUEST 2: Materix — Enterprise Document Manager**
-> **STATUS**: 🏆 COMPLETED & ACTIVE
-
-Enterprise secure document cabinet featuring Google OAuth validation, Supabase PostgreSQL data-indexing, drag-drop storage, and dynamic malware scanner.
-* **Loot Secured**: `Supabase` • `PostgreSQL` • `JWT` • `React` • `Node.js` • `File Processing`
-* **Demo Node**: <a href="https://materix.vercel.app"><img src="https://img.shields.io/badge/Enter_Quest-c8f55a?style=flat-square&logo=vercel&logoColor=black" /></a>
-
-<br/>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0e,50:c8f55a,100:0d0d0e&height=1" width="40%"/>
-</p>
-<br/>
-
-### 🎬 **QUEST 3: Scalendra — Cinematic Productivity Dashboard**
-> **STATUS**: 🏆 COMPLETED & ACTIVE
-
-Cinematic scheduling deck built with micro-particle bokeh effects, custom film grain overlays, activity heatmaps, and a natural language voice recognition engine.
-* **Loot Secured**: `React` • `Framer Motion` • `NLP` • `CSS Animations` • `Voice Recognition`
-* **Demo Node**: <a href="https://scalendra.vercel.app"><img src="https://img.shields.io/badge/Enter_Quest-c8f55a?style=flat-square&logo=vercel&logoColor=black" /></a>
-
-<br/>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0e,50:c8f55a,100:0d0d0e&height=1" width="40%"/>
-</p>
-<br/>
-
-### 🎟️ **QUEST 4: BookMyVibe — Live Event Booking Platform**
-> **STATUS**: 🏆 COMPLETED & ACTIVE
-
-Live MERN ticketing dashboard with interactive venue maps, real-time ticket counts, seat selection nodes, and payment simulation workflows.
-* **Loot Secured**: `MongoDB` • `Express` • `React` • `Node.js` • `Socket.IO`
-* **Demo Node**: <a href="https://book--my--vibe--seven.vercel.app"><img src="https://img.shields.io/badge/Enter_Quest-c8f55a?style=flat-square&logo=vercel&logoColor=black" /></a>
-
-<br/>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0e,50:c8f55a,100:0d0d0e&height=1" width="40%"/>
-</p>
-<br/>
-
-### 🎟️ **SIDE-QUEST: BookMySeat — Ticket Reservation**
-Complete backend booking ecosystem featuring JWT authorization, administrative seat panel, and purchase confirmation.
-* **Loot Secured**: `Node.js` • `Express` • `MongoDB` • `Vanilla JS` • `HTML/CSS`
-
-<br/>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0e,50:c8f55a,100:0d0d0e&height=1" width="40%"/>
-</p>
-<br/>
-
-### 🌐 **SIDE-QUEST: Kulsum.dev — Personal Portfolio**
-A modern responsive showcase of all creative technology nodes and dynamic designs.
-* **Loot Secured**: `HTML` • `CSS` • `JavaScript` • `Responsive Design`
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center" style="border: none; padding: 15px;">
+      <a href="https://through-u.vercel.app" target="_blank">
+        <img src="assets/throughu.png" alt="Through U" width="100%" style="border-radius: 12px; border: 2px solid #c8f55a; box-shadow: 0 0 15px rgba(200, 245, 90, 0.2);" />
+      </a>
+      <br/><br/>
+      <h3><a href="https://through-u.vercel.app" style="color: #c8f55a; text-decoration: none;">❤️ Through U — Infinite Impact</a></h3>
+      <p>India's most advanced platform connecting willing donors with patients in real-time. Turning loss into hope.</p>
+      <code>React</code> • <code>Node.js</code> • <code>Maps API</code>
+    </td>
+    <td width="50%" align="center" style="border: none; padding: 15px;">
+      <a href="https://nex-vpn-nova.vercel.app" target="_blank">
+        <img src="assets/nexvpn.png" alt="NEXVPN Nova" width="100%" style="border-radius: 12px; border: 2px solid #c8f55a; box-shadow: 0 0 15px rgba(200, 245, 90, 0.2);" />
+      </a>
+      <br/><br/>
+      <h3><a href="https://nex-vpn-nova.vercel.app" style="color: #c8f55a; text-decoration: none;">🛡️ NEXVPN Nova</a></h3>
+      <p>Professional-grade VPN platform featuring GeoSpoof visualizer, leak detection, and a custom privacy score engine.</p>
+      <code>Socket.IO</code> • <code>AES-256</code> • <code>React</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: none; padding: 15px;">
+      <a href="https://materix.vercel.app" target="_blank">
+        <img src="assets/materix.png" alt="Materix" width="100%" style="border-radius: 12px; border: 2px solid #c8f55a; box-shadow: 0 0 15px rgba(200, 245, 90, 0.2);" />
+      </a>
+      <br/><br/>
+      <h3><a href="https://materix.vercel.app" style="color: #c8f55a; text-decoration: none;">📁 Materix — Enterprise Vault</a></h3>
+      <p>Enterprise secure document cabinet featuring Google OAuth validation, Supabase PostgreSQL indexing, and drag-drop storage.</p>
+      <code>Supabase</code> • <code>PostgreSQL</code> • <code>OAuth</code>
+    </td>
+    <td width="50%" align="center" style="border: none; padding: 15px;">
+      <a href="https://scalendra.vercel.app" target="_blank">
+        <img src="assets/scalendra.png" alt="Scalendra" width="100%" style="border-radius: 12px; border: 2px solid #c8f55a; box-shadow: 0 0 15px rgba(200, 245, 90, 0.2);" />
+      </a>
+      <br/><br/>
+      <h3><a href="https://scalendra.vercel.app" style="color: #c8f55a; text-decoration: none;">🎬 Scalendra</a></h3>
+      <p>Cinematic scheduling deck built with micro-particle bokeh effects, custom film grain overlays, and NLP voice recognition.</p>
+      <code>Framer Motion</code> • <code>NLP</code> • <code>CSS Arrays</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" align="center" style="border: none; padding: 15px;">
+      <a href="https://book--my--vibe--seven.vercel.app" target="_blank">
+        <img src="assets/bookmyvibe.png" alt="BookMyVibe" width="80%" style="border-radius: 12px; border: 2px solid #c8f55a; box-shadow: 0 0 15px rgba(200, 245, 90, 0.2);" />
+      </a>
+      <br/><br/>
+      <h3><a href="https://book--my--vibe--seven.vercel.app" style="color: #c8f55a; text-decoration: none;">🎟️ BookMyVibe — Event Booking</a></h3>
+      <p>Live MERN ticketing dashboard with interactive venue maps, real-time ticket counts, seat selection nodes, and payment simulation.</p>
+      <code>MongoDB</code> • <code>Express</code> • <code>React</code> • <code>Node.js</code>
+    </td>
+  </tr>
+</table>
 
 </div>
 
