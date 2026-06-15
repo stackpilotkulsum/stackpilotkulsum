@@ -32,28 +32,36 @@
 
 <div align="center">
 
-```ansi
- ____________________________________________________________________
-/                                                                    \
-|  [1;32m[SYSTEM][0m Booting stackpilot-os v2.7.0...                          |
-|  [1;32m[SYSTEM][0m Establishing AES-256 secure nodes... [1;32m[SECURE][0m             |
-|  [1;32m[SYSTEM][0m Syncing Supabase PostgreSQL & socket layers... [1;32m[CONNECTED][0m   |
-|  [1;32m[SYSTEM][0m Bootstrapping Framer Motion engines... [1;32m[ACTIVE][0m              |
-|                                                                    |
-|  [1;35m> info --identity[0m                                                 |
-|    ● Role       : Full-Stack Developer & Creative Technologist     |
-|    ● Location   : India | Tech Enthusiast | Innovation Seeker      |
-|    ● Philosophy : "Build fast. Build secure. Make it beautiful."   |
-|    ● Passion    : Blending Artificial Intelligence & High-End UI   |
-|                                                                    |
-|  [1;35m> stats --attributes[0m                                              |
-|    ⚔️ Attack (Coding Speed)  : █ █ █ █ █ █ █ █ █ ░  [1;32m[ 90% ][0m          |
-|    🛡️ Defense (Security)     : █ █ █ █ █ █ █ █ █ █  [1;32m[ 100% ][0m         |
-|    🔮 Mana (Creativity)       : █ █ █ █ █ █ █ █ █ █  [1;32m[ 100% ][0m         |
-|    ⚡ Agility (Learning Rate) : █ █ █ █ █ █ █ █ █ █  [1;32m[ 100% ][0m         |
-|    🍀 Luck (Bug Resolution)  : █ █ █ █ █ █ █ ░ ░ ░  [1;32m[ 70% ][0m          |
-\____________________________________________________________________/
-```
+<table width="700" style="background-color: #0d0d0e; border-collapse: collapse; border: 1px solid #c8f55a; border-radius: 10px;">
+    <tr>
+      <td style="padding: 10px; background-color: #1a1a1c; border-bottom: 1px solid #333;">
+        <span style="color: #ff5f56; font-size: 18px;">🔴</span>
+        <span style="color: #ffbd2e; font-size: 18px;">🟡</span>
+        <span style="color: #27c93f; font-size: 18px;">🟢</span>
+        <span style="color: #c8f55a; font-family: monospace; font-size: 14px; margin-left: 15px;">stackpilot-shell --live_status</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; font-family: 'Courier New', Courier, monospace; color: #a9a9b3; font-size: 14px; line-height: 1.6; text-align: left;">
+        <span style="color: #c8f55a;"><b>stackpilot@nova</b></span>:<span style="color: #61DAFB;"><b>~</b></span>$ system --boot<br>
+        <span style="color: #27c93f;">[ OK ]</span> Establishing AES-256 secure nodes...<br>
+        <span style="color: #27c93f;">[ OK ]</span> Syncing Supabase PostgreSQL layers...<br>
+        <span style="color: #27c93f;">[ OK ]</span> Bootstrapping Framer Motion engines...<br><br>
+        
+        <span style="color: #c8f55a;"><b>stackpilot@nova</b></span>:<span style="color: #61DAFB;"><b>~</b></span>$ get identity<br>
+        &nbsp;&nbsp;● <b>Role:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ffffff;">Full-Stack Developer &amp; Creative Technologist</span><br>
+        &nbsp;&nbsp;● <b>Location:</b>&nbsp;&nbsp;&nbsp;<span style="color: #ffffff;">India | Innovation Seeker</span><br>
+        &nbsp;&nbsp;● <b>Philosophy:</b>&nbsp;<span style="color: #ffffff;">"Build fast. Build secure. Make it beautiful."</span><br><br>
+
+        <span style="color: #c8f55a;"><b>stackpilot@nova</b></span>:<span style="color: #61DAFB;"><b>~</b></span>$ get stats<br>
+        &nbsp;&nbsp;⚔️ <span style="color: #ffffff;">Coding Speed</span>&nbsp;&nbsp;■■■■■■■■■□ <span style="color: #c8f55a;">[90%]</span><br>
+        &nbsp;&nbsp;🛡️ <span style="color: #ffffff;">Security</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■■■■■■■■■■ <span style="color: #c8f55a;">[100%]</span><br>
+        &nbsp;&nbsp;🔮 <span style="color: #ffffff;">Creativity</span>&nbsp;&nbsp;&nbsp;&nbsp;■■■■■■■■■■ <span style="color: #c8f55a;">[100%]</span><br>
+        &nbsp;&nbsp;🍀 <span style="color: #ffffff;">Bug Hunting</span>&nbsp;&nbsp;&nbsp;■■■■■■■□□□ <span style="color: #c8f55a;">[70%]</span><br><br>
+        <span style="color: #c8f55a;"><b>stackpilot@nova</b></span>:<span style="color: #61DAFB;"><b>~</b></span>$ <span style="color: #c8f55a;">█</span>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
