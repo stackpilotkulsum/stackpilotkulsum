@@ -225,6 +225,26 @@ Here are the main quests I have successfully tackled and deployed.
 
 <br/>
 
+<!-- GALACTIC GITHUB STATISTICS -->
+## 📊 &nbsp; Galactic Statistics
+
+<div align="center">
+  <a href="https://github.com/stackpilotkulsum">
+    <img src="https://github-readme-stats.vercel.app/api?username=stackpilotkulsum&show_icons=true&theme=radical&bg_color=0d0d0e&title_color=c8f55a&text_color=ffffff&icon_color=c8f55a&border_color=c8f55a&border_radius=10&hide_border=false" alt="GitHub Stats" height="195" />
+  </a>
+  <a href="https://github.com/stackpilotkulsum">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackpilotkulsum&layout=compact&bg_color=0d0d0e&title_color=c8f55a&text_color=ffffff&border_color=c8f55a&border_radius=10&hide_border=false" alt="Top Languages" height="195" />
+  </a>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0e,50:c8f55a,100:0d0d0e&height=3" width="100%"/>
+</p>
+
+<br/>
+
 ## 🎯 &nbsp; My Philosophy
 
 > **"Build fast. Build secure. Make it beautiful."**
