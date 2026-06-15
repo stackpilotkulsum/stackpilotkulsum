@@ -1,24 +1,46 @@
 <div align="center">
 
 <!-- EXTRAORDINARY GALACTIC NEON GRADIENT HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030008,30:0f021f,70:380668,100:c8f55a&height=260&section=header&text=Kulsum%20Malik&fontSize=75&fontColor=c8f55a&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030008,30:0f021f,70:380668,100:c8f55a&height=220&section=header" width="100%"/>
 
-<br/>
+<br><br>
 
-<!-- Centered Avatar Girl with Glowing Theme Border -->
-<img src="avatar.png" width="220" height="220" style="border-radius: 50%; border: 5px solid #c8f55a; box-shadow: 0 0 35px rgba(200, 245, 90, 0.4); margin-bottom: 20px; object-fit: cover;" alt="Kulsum Malik Avatar" />
+<table width="850" style="background-color: #0d0d0e; border: 1px solid #c8f55a; border-radius: 12px; border-collapse: collapse;">
+  <tr>
+    <td width="35%" align="center" style="padding: 20px; border-right: 1px solid #222;">
+      <a href="https://github.com/stackpilotkulsum">
+        <img src="avatar.png" width="220" alt="Kulsum Malik Avatar" />
+      </a>
+    </td>
+    <td width="65%" style="padding: 30px; font-family: sans-serif; text-align: left;">
+      <h1 style="color: #c8f55a; font-size: 42px; margin-bottom: 5px;">KULSUM MALIK</h1>
+      <h3 style="color: #ffffff; margin-top: 0; font-weight: 400; letter-spacing: 2px;">FULL-STACK WIZARD & CREATIVE TECHNOLOGIST</h3>
+      
+      <p style="color: #a9a9b3; font-size: 16px; margin-top: 20px; font-style: italic;">
+        "Building the Future, One Line of Code at a Time."
+      </p>
 
-<br/>
-
-# 🪐 STACKPILOT KULSUM 🪐
-### ⚔️ Full-Stack Wizard & Creative Technologist
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=24&duration=3500&pause=1000&color=C8F55A&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=🚀+Full-Stack+Developer;💡+Creative+Technologist;🔐+Security+First+Mindset;⚡+Always+Learning" width="100%"/>
+      <table style="border: none; margin-top: 20px; background-color: transparent;">
+        <tr>
+          <td style="border: none; padding-right: 20px;">
+            <p style="color: #c8f55a; margin: 0; font-size: 16px;"><b>🚀 Focus</b></p>
+            <p style="color: #ffffff; margin: 5px 0;">Advanced UI & UX</p>
+          </td>
+          <td style="border: none; padding-right: 20px;">
+            <p style="color: #c8f55a; margin: 0; font-size: 16px;"><b>🔐 Core</b></p>
+            <p style="color: #ffffff; margin: 5px 0;">Secure Systems</p>
+          </td>
+          <td style="border: none;">
+            <p style="color: #c8f55a; margin: 0; font-size: 16px;"><b>⚡ Mindset</b></p>
+            <p style="color: #ffffff; margin: 5px 0;">Always Learning</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 </div>
-
 <br/>
 
 <p align="center">
